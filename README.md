@@ -1,6 +1,8 @@
 # About
 
-- Dark mode
+POPUPAAP, is a set of multiple popup apps, aims to use browser pop-up windows creatively to deliver fun, interactive.
+
+Have Dark mode and three versions for each app
 
 ## 0. Three version for each popup_app
 
